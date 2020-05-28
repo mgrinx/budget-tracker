@@ -8,7 +8,7 @@ A modified budget tracking app to demonstrate offline progressive web app capabi
 - [Contributors](#Contributors)
 - [Dependencies](#Dependencies)
 ## Usage
-### [Try it!]( )
+### [Try it!](https://pure-plains-24268.herokuapp.com/)
 Use the input fields to enter expenses.
 ## Features
 - Offline support via service worker
